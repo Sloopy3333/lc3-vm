@@ -1,0 +1,13 @@
+* LC3 VM
+  A educational implementation of the LC-3 Virtual machine in C
+
+** Running
+   download [[https:https://justinmeiners.github.io/lc3-vm/supplies/2048.obj][2028]] or [[https:https://justinmeiners.github.io/lc3-vm/supplies/rogue.obj][Rogue]] obj file.
+   #+begin_src shell
+ make
+./lc3 path to obj file
+   #+end_src
+
+** Sources
+   [[https://justinmeiners.github.io/lc3-vm/][Tutorial]]
+   [[https://justinmeiners.github.io/lc3-vm/supplies/lc3-isa.pdf][Specifications]]
